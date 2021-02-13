@@ -35,3 +35,4 @@
 ### 11 yarn add nodemailer e yarn add @types/nodemailer -D (lib para enviar email)
 // uso do mailtrap para testes de envio de email 
 ### [https://mailtrap.io/](https://mailtrap.io/)
+### Fonte: [https://www.youtube.com/watch?v=vAV4Vy4jfkc&ab_channel=Rocketseat] (https://www.youtube.com/watch?v=vAV4Vy4jfkc&ab_channel=Rocketseat)
